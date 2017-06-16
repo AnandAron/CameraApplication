@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "736574843452",
+    "firebase_url": "https://cameraapplication-a7317.firebaseio.com",
+    "project_id": "cameraapplication-a7317",
+    "storage_bucket": "cameraapplication-a7317.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736574843452:android:5f78f2f71b873152",
+        "android_client_info": {
+          "package_name": "com.example.anandaron.cameraapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736574843452-stn3mjdp3678uj9p1ktup5sg08qgnt0f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anandaron.cameraapplication",
+            "certificate_hash": "c9c695f9961374b1959162cc186fcd3ce53148ef"
+          }
+        },
+        {
+          "client_id": "736574843452-vfeuv8c9e300fbmdbp0pp7l4lcu1rh2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSIFcsILOmRPdKYnstlA5VSF4EODD8rjo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736574843452-vfeuv8c9e300fbmdbp0pp7l4lcu1rh2r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
